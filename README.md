@@ -25,8 +25,7 @@ The following steps are similar for all operating systems(OS) such as Windows, m
 1. Ensure you have Java `11` or above installed in your computer.
 2. Download the latest Jar release, in this case it should be in the base directory with the name `GicBankAccount.jar`
 2. In the project base direction, use the command
-   - `java -jar GicBankAccount.jar` For windows.
-   - `java -jar GicBankAccount.jar` For macOS and Linux
+   - `java -jar GicBankAccount.jar`
 3. You should see a welcome message from the application.
 
 Or you can compile all the required classes and run directly from the entry point at `src/main/java/bank/BankAccount.java`
